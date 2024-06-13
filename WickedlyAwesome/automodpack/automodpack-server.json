@@ -1,0 +1,29 @@
+{
+  "modpackName": "",
+  "modpackHost": true,
+  "generateModpackOnStart": true,
+  "syncedFiles": [
+    "/mods/*.jar",
+    "!/mods/iDontWantThisModInModpack.jar",
+    "!/config/andThisConfigToo.json",
+    "!/mods/andAllTheseMods-*.jar",
+    "!/mods/server-*.jar"
+  ],
+  "allowEditsInFiles": [
+    "/options.txt",
+    "/config/*",
+    "!/config/excludeThisFile"
+  ],
+  "requireAutoModpackOnClient": true,
+  "autoExcludeServerSideMods": true,
+  "hostModpackOnMinecraftPort": true,
+  "hostIp": "",
+  "hostLocalIp": "",
+  "updateIpsOnEveryStart": false,
+  "hostPort": -1,
+  "reverseProxy": false,
+  "selfUpdater": false,
+  "acceptedLoaders": [
+    "forge"
+  ]
+}

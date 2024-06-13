@@ -1,0 +1,222 @@
+{
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-06-12 11:41:18 -0400"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2024-06-12 11:41:18 -0400"
+    },
+    "done": true
+  },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_the_recipe": "2024-06-12 11:41:18 -0400"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_the_recipe": "2024-06-12 11:41:18 -0400"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-06-12 11:41:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2024-06-12 11:57:50 -0400",
+      "minecraft:sunflower_plains": "2024-06-12 13:09:38 -0400",
+      "minecraft:beach": "2024-06-12 11:41:18 -0400",
+      "minecraft:mangrove_swamp": "2024-06-12 12:11:32 -0400",
+      "minecraft:lukewarm_ocean": "2024-06-12 11:43:21 -0400",
+      "minecraft:river": "2024-06-12 11:43:19 -0400",
+      "minecraft:ocean": "2024-06-12 12:13:36 -0400",
+      "minecraft:windswept_savanna": "2024-06-12 13:09:36 -0400",
+      "minecraft:deep_lukewarm_ocean": "2024-06-12 11:53:12 -0400",
+      "minecraft:flower_forest": "2024-06-12 12:21:51 -0400",
+      "minecraft:plains": "2024-06-12 13:10:00 -0400"
+    },
+    "done": false
+  },
+  "parcool:grant_parcool_guide": {
+    "criteria": {
+      "tick": "2024-06-12 11:41:18 -0400"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-06-12 11:41:18 -0400"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2024-06-12 11:41:18 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-06-12 11:42:22 -0400"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-06-12 11:42:22 -0400"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2024-06-12 11:42:52 -0400"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "tomato_seeds": "2024-06-12 11:54:29 -0400"
+    },
+    "done": true
+  },
+  "idas:sunken_ship": {
+    "criteria": {
+      "in_sunken_ship": "2024-06-12 11:59:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-06-12 12:00:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-06-12 12:00:44 -0400"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-06-12 12:01:21 -0400"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-06-12 12:01:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-06-12 12:08:11 -0400"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2024-06-12 12:12:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-06-12 12:12:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-06-13 12:42:57 -0400",
+      "salmon": "2024-06-12 12:33:29 -0400",
+      "apple": "2024-06-12 12:19:19 -0400",
+      "cooked_cod": "2024-06-12 12:57:44 -0400",
+      "cod": "2024-06-12 12:52:57 -0400",
+      "cooked_salmon": "2024-06-12 12:24:23 -0400"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-06-12 12:19:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-06-12 12:28:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-06-12 12:29:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-06-12 12:36:18 -0400"
+    },
+    "done": true
+  },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2024-06-12 12:44:37 -0400"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_acacia": "2024-06-12 12:44:37 -0400"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2024-06-12 12:45:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-06-12 12:46:07 -0400"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/bison_spyglass": {
+    "criteria": {
+      "spyglass_at_bison": "2024-06-13 12:53:31 -0400"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2024-06-13 12:34:08 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2024-06-13 12:46:22 -0400"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-06-13 12:38:27 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
